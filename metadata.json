@@ -1,0 +1,6 @@
+{
+  "name": "Pixel Stride 3D",
+  "description": "A vibrant Cartoon 3D Pixel Art character movement game on a clean minimalist baseplate with fluid R16 animations and mobile touch controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
